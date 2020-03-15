@@ -4,8 +4,8 @@ var pool = mysql.createPool({
     connectionLimit: 5,
     host     : 'localhost',
     user     : 'root',
-    password : 'gujc1004',
-    database : 'board'    
+    password : 'lee2391',
+    database : 'my_db'    
 });
 
 module.exports = pool;
