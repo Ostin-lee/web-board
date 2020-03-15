@@ -3,3 +3,5 @@
 
 게시판에 대한 설명은 [여기](http://forest71.tistory.com/142),
 설치 방법은 [여기에](http://forest71.tistory.com/141) 되어 있다.
+
+MySQL 5.XX 사용만 가능 8버젼에선 동작 안함
